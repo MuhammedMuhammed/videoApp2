@@ -1,0 +1,17 @@
+{
+  "name": "external-storage",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "info.androidStorages.plugins.external_storage",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
